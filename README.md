@@ -34,3 +34,4 @@ I am collaborating in a few other projects that seek to use blockchain to make p
 donate 25% of all revenue to real-world enviromental causes. In development, protocols launch Q3 and Q4 2022.
 * [DAO DAO](https://daodao.zone) - A DAO to create DAO tooling. Building cutting-edge technology for decentralized governance and organizations
 in order to empower the next-generation of collaborative blockchain projects. They also have built an amazing community and have done no token sale.
+* [Tgrade](https://tgrade.finance) - A CosmWasm-based blockchain meant to support real-world businesses. I spent almost 2 years designing and implementing a ["Proof of Engagement" consensus mechanism](https://medium.com/tgradefinance/tgrade-contracts-exposed-bdab84879e57) leveraging non-transferable reputation to serve as a better PoS.
