@@ -1,5 +1,3 @@
-### Hi there 👋
-
 I have over 15 years of experience in software development, and have focused exclusively on blockchain technologies
 since Jan 2017. Some highlights I am proud of there:
 
